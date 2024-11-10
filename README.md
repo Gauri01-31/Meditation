@@ -12,11 +12,11 @@ REQUIREMENTS:
    V8: 12.8.374.38-electron.0
    OS: Windows_NT x64 10.0.22631
    
-3.XAMPP:
+2.XAMPP:
   It a free, open-source software package that allows users to develop, test, and build websites on a local server.
   Version: XAMPP Control Pannel v.3.3.O
   
-2.Project Description:
+3.Project Description:
    This webiste enhances and facilitates our meditation skills by playing the media and keeping time.
    Even helping us to keep track of our meditation habits.
    How to run this website on localhost?
